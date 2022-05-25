@@ -1,10 +1,11 @@
-import React from "react";
-import { Carousel } from "./Carousel";
+import React from 'react'
+
+import { TopSwiper } from './top-swiper'
 
 export function Home() {
   return (
     <>
-      <Carousel />
+      <TopSwiper />
     </>
-  );
+  )
 }
