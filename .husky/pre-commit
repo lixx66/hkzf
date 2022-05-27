@@ -3,4 +3,4 @@
 
 npx prettier --write .
 
-yarn lint
+npx lint
